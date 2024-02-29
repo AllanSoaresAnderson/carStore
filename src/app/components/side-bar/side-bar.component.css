@@ -1,0 +1,21 @@
+.container_component{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container_links{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    padding: 20px;
+}
+
+
+.container_top h2{
+    text-align: center;
+    border-bottom: 1px solid gray;
+    padding: 20px 20px 5px 20px;
+}

@@ -1,0 +1,28 @@
+.container_page{
+    height: 80vh;
+}
+
+.flex_column_center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-login{
+    padding: 20px;
+    min-width: 450px;
+}
+
+.box-login button{
+    width: 100%;
+}
+
+.box-login input{
+    margin: 5px;
+}
+
+.box-login button{
+    margin: 15px 5px;
+}
+
